@@ -1,2 +1,2 @@
-pytest==2.6.3
+pytest==8.0.0
 psycopg2-binary==2.7.5
